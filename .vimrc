@@ -24,3 +24,7 @@ nmap <F2> :bp <enter>
 nmap <F3> :bn <enter>
 
 set number
+set expandtab
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
